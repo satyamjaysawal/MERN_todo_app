@@ -2,15 +2,15 @@
 
 
 <<<<< Start App >>>>>>>>
-1.$ npm install in MERN_todo_app
+1.$ npm install in MERN_todo_app:
 and 
-2.</> cd client
-3.$ npm install
-4. $npm run dev
+2.</> cd client:
+3.$ npm install:
+4. $npm run dev:
 ----------------
-Server is started
-DB connected
-frontent :http://localhost:3000/
+Server is started:
+DB connected:
+frontent :http://localhost:3000/:
 
 
 
