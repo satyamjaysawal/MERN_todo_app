@@ -3,7 +3,7 @@
 
 <<<<< Start App >>>>>>>>  
 1.$ npm install in MERN_todo_app  
-and 
+and        
 2.</> cd client  
 3.$ npm install  
 4. $npm run dev   
