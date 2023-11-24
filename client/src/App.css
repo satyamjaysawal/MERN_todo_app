@@ -13,7 +13,7 @@ input {
   border-bottom: 2px #101113 solid;
   background: none;
   font-size: 1.5rem;
-  color: red;
+  color: #787a80;
 }
 
 input:focus {
@@ -48,7 +48,7 @@ li {
   padding: 15px;
   font-size: 1.5rem;
   margin-bottom: 15px;
-  background: blue;
+  background: #282c34;
   border-radius: 5px;
   overflow-wrap: break-word;
   cursor: pointer;
